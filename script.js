@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function()
     linkElements.forEach(function(link){
         if(choice == "Navy")
         {
-
+            
         }
         else if(choice == "Maroon")
         {
