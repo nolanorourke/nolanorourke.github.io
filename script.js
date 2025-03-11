@@ -9,11 +9,11 @@ document.addEventListener("DOMContentLoaded", function()
         }
         else if(choice == "Maroon")
         {
-            link.href = 
+            //link.href =
         }
         else if(choice == "Forest Green")
         {
-
+            
         }
         else 
         {
